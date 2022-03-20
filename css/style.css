@@ -6,6 +6,7 @@
   margin: 0;
   padding: 0;
   outline: none;
+  -webkit-tap-highlight-color: transparent;
 }
 body{
   background-color: rgb(230, 230, 230);
